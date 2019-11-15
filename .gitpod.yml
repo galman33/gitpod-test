@@ -1,5 +1,5 @@
 # The Docker image to run your workspace in. Defaults to gitpod/workspace-full
-image: babim/ubuntu-novnc
+image: zerodivide1/docker-novnc
 # Ports to expose on workspace startup (optional)
 ports:
   - port: 6080
