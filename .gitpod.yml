@@ -1,6 +1,5 @@
 # The Docker image to run your workspace in. Defaults to gitpod/workspace-full
-image:
-  file: .gitpod.dockerfile
+image: jgamblin/kalibrowser
 # Ports to expose on workspace startup (optional)
 ports:
   - port: 6080
